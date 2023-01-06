@@ -40,7 +40,7 @@
  
  
   
- ### 실행(Terminal)
+ ### Git Clone, Package Install(Terminal)
 
 ```bash
 git clone https://github.com/godee95/gyeonggi.git

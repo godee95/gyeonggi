@@ -14,14 +14,14 @@
 
 #### S.A
 
-  * [tistory_blog](https://typomaker.tistory.com/61)
+  * [tistory_blog](https://nomik.tistory.com/150)
 
 
 
 
 #### KDT
 
-  * [tistory_blog](https://typomaker.tistory.com/17)
+  * [tistory_blog](https://nomik.tistory.com/157)
 
 
 

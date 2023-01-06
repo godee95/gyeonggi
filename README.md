@@ -24,6 +24,8 @@
   * [tistory_blog](https://nomik.tistory.com/157)
 
 
+#### 프로젝트 설명
+  * [tistory_blog](https://typomaker.tistory.com/61)
 
 
 #### 시연 동영상
